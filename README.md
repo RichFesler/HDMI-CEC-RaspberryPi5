@@ -325,7 +325,7 @@ For Raspberry Pi projects, especially kiosk displays and home automation install
 - edid-decode package
 - drm-info package (optional)
 
-**Repository:** [Your GitHub URL]
+**Repository:** https://github.com/RichFesler/HDMI-CEC-RaspberryPi5
 
 **License:** MIT
 
